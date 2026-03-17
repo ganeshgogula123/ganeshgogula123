@@ -100,31 +100,16 @@ logo=gmail&logoColor=white)](ganeshgogula2@gmail.com)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/
-?username=ganesh-gogula&color=brightgreen&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=ganeshgogula123&color=brightgreen&style=flat)
+
+```
+> *"Cloud is where the world's data lives.
+> Securing it is not just a job — it's a responsibility."*
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=ganeshgogula123&color=brightgreen&style=flat)
 
 ⭐ **If you find my projects helpful, give them a star!**
-```
-
----
-
-## Step 3 — Commit the Changes
-
-1. Scroll down to bottom
-2. Click **"Commit changes"**
-3. Click **"Commit changes"** again to confirm
-4. Go back to your profile — you will see the README displayed! ✅
-
----
-
-## Step 4 — Create Your First Project Repo
-
-1. Click **"+"** → **"New repository"**
-2. Name:
-```
-cloud-security-labs
-```
-3. Description:
-```
 Hands-on AWS Cloud Security labs — 
 VPC, IAM, GuardDuty, Terraform, SIEM
